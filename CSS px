@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GOOD</title>
+<style>
+    h1{
+        color: aqua;
+        font-size: 20px;
+    }
+    p{
+        color: rgb(220, 21, 21);
+        font-size: 30px;
+    }
+</style>
+</head>
+<body>
+    <h1>Hi how are you all!</h1>
+    <img src="Images/Anne.jpeg" alt="Anne"/>
+
+    <h2>I am anne marie from londan.</h2>
+    <P>The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe centered on a series of superhero films produced by Marvel Studios. The films are based on characters that appear in American comic books published by Marvel Comics.</P>
+<ul>
+    <li><a href="https://www.marvel.com/"> MARVEL</a></li>
+</ul>  
+</body>

@@ -1,0 +1,33 @@
+
+<h1 style="color: rgb(255, 196, 228);">KANE</h1>
+<html>
+<head>
+    <meta charset="UTF-8">
+<style>
+
+    .marvel{
+       background-color: red;
+    }
+
+    .marvel img{
+        background-color: black;
+   width: auto;
+   height: auto; 
+   border: 100px soild black;
+   border-radius: 30%;
+   object-fit: cover;
+}
+
+</style>
+</head>
+<body>
+<img class="marvel" src="Images/Marvel.jpeg">
+<img class="marvel" src="Images/America.jpeg">
+<img class="marvel" src="Images/Spider.jpeg">
+<img src="Images/Kane.jpeg" alt="Kane"/>
+<img src="https://picsum.photos/200" alt="Kane"/><br />
+<img src="Images/Kane.jpeg" alt="Kane" height="200xp" width="150"/><br />
+<img src="Images/Anne.jpeg" alt="Anne"/>
+<a href="https://www.iamannemarie.com"><h1>Anne</h1><img src="Images/Anne.jpeg" alt="Anne" length="100hpx" width="auto"></a>
+</body>
+</html>

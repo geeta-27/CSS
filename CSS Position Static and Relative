@@ -1,0 +1,42 @@
+<head>
+<style>
+    .main{
+        background-color: blueviolet;
+        border: bottom right radius 100px;
+    }
+    body{
+        background-color: aqua;
+        margin-left:150px;
+    }
+
+    .red{
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        position: relative;
+        left: 100px;
+        right:100px;
+    }
+    .blue{
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+    }
+    .green{
+        width: 100px;
+        height: 100px;
+        background-color: green;
+    }
+</style>
+</head>
+<body>
+    <div class="main">
+<div class="red">
+
+</div>
+<div class="blue">
+
+</div>
+<div class="green"></div>
+</div>
+</body>

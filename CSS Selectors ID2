@@ -1,0 +1,35 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+<style>
+    img{
+       width: 100px;
+       height: auto;
+       border-radius: 10%; 
+       aspect-ratio: 1;
+
+    }
+
+    #marvel{
+       background-color: rgb(145, 12, 12);
+       color: brown;
+       width: 80px;
+       height: 800px;
+       
+    }
+    img:hover{
+        /*Increase the size by 10%*/
+        transform: scale(2.0);
+        transition: all 8s ease-in-out;
+    }
+
+</style>
+</head>
+<body>
+<img id="marvel" class="Good" src="Images/Marvel.jpeg">
+<img id="america" src="Images/America.jpeg">
+<img id="spider" src="Images/Spider.jpeg">
+<img src="Images/Kane.jpeg" alt="Kane"/>
+<img src="Images/Anne.jpeg" alt="Anne"/>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            
+            div{
+                margin-left: 270px;
+            }
+            p{
+                text-align: center;
+            }
+            body{
+                background-color: antiquewhite;
+            }
+            h1{
+                margin:0;
+            }
+            p{
+                background-color: rgb(211, 34, 175);
+                width: 500px;
+                height:auto;
+                margin: 0;
+                border: 10px solid rgba(17, 199, 196, 0.644);
+                padding: 10px 80px;
+            }
+
+
+        </style>
+    </head>
+    <body>
+        <center><h1>King is back!</h1></center>
+        <center><img src="Images/Kane.jpeg"/></center>
+        <div>
+            <p>Explanation of the different parts:<br>
+
+                Content - The content of the box, where text and images appear.<br>
+                Padding - Clears an area around the content. The padding is transparent.<br>
+                Border - A border that goes around the padding and content.<br>
+                Margin - Clears an area outside the border. The margin is transparent.</p>
+        </div>
+    </body>
+</html>

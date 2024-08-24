@@ -1,0 +1,44 @@
+<h2>Internal styles are defined within the style tag element, inside the head tag section of an HTML page</h2>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wish</title>
+
+    <style>
+        body {
+            background-color: #0cbed2;
+        }
+
+        img{
+           width: auto;
+           height: auto; 
+           border: 100px soild black;
+           border-radius: 50%;
+           aspect-ratio: 1;
+           object-fit: cover;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Multiple websites</h1>
+    <p>I use PrepInsta for my self</p>
+    <p>I use <a href="https://www.PrepInsta.com">PrepInsta<a></a> for my self</p>
+    <p>I use <a href="https://www.PrepInsta.com/PrepInstaprime" target="_blank" draggable="false">PrepInstaprime<a></a>
+            for my self</p>
+
+    <ul>
+        <li><a href="https://www.Instagram.com">Instagram</a></li>
+        <li><a href="https://www.Facebook.com">Facebook</a></li>
+        <li><a href="https://www.Youtube.com">Youtube</a></li>
+        <li><a href="https://login.gitam.edu">Gitam web login</a></li>
+        <li><a href="https://www.learn.gitam.edu.com">Module</a></li>
+    </ul>
+    </ul>
+    <img src="Images/Anne.jpeg" alt="Anne"/>
+</body>
+
+</html>

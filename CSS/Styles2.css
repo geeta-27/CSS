@@ -1,0 +1,31 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+img.skillsimg {
+    width: 100px;
+    height: auto;
+}
+
+p,h2 {
+    width: 400px;
+    margin: 0 auto 0 auto;
+
+}
+.King{
+    width: 700px;
+    margin-left: 250px;
+}
+.spider{
+    width: 200px;
+    height: auto;
+   /* position: absolute;
+    bottom: 200px*/;
+}
+.marvel{
+    width: 200px;
+    height: auto;
+    /*position: relative;*/
+}

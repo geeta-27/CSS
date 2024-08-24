@@ -1,0 +1,66 @@
+<html>
+    <head>
+        <style>
+            .Orange{
+                width: 300px;
+                height:300px;
+                background-color: orange;
+                /*position: fixed;*/
+            }
+            div.sticky{
+                position:-webkit-sticky;
+                position: sticky;
+                top: 0;
+                padding: 10px;
+                background-color: darkmagenta;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div>
+            <h1>We will explain sticky and fixed here below!</h1>
+            <h2>The concept is pretty easy to understand!</h2>
+        <div class="Orange">
+        </div>
+                <!--<div class="sticky">See I will get sticked to the top!</div>-->
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+                <p>I am good boy!</p>
+            </div>    
+    </body>
+</html>

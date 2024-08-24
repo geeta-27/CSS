@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="CSS/Styles2.css">
+    </head>
+    <body>
+        <div>
+            <img class="skillsimg" src="Images/JCB.jpg"/>
+            <h2>My skills</h2>
+            <p>Modern hydraulic excavators come in a wide variety of sizes. The smaller ones are called mini or compact excavators. For example, Caterpillar's smallest mini-excavator weighs 2,060 pounds (930 kg) and has 13 hp; their largest model is the largest excavator available (developed and produced by the Orenstein & Koppel, Germany, until the takeover 2011 by Caterpillar, named »RH400«)</p>
+            <div class="King">
+                <img class="spider" src="Images/Spider.jpeg"/>
+                <img class="marvel" src="Images/Marvel.jpeg"/>
+
+            </div>
+        </div>
+    </body>
+</html>

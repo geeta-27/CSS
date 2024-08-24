@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GOOD</title>
+    <style>
+       a{
+            border: 2px solid rgb(151, 17, 240);
+            border-radius: 10px;
+        }
+        h1{
+            text-align: center;
+        }
+
+        .intro{
+            color: rgb(248, 79, 0);
+            min-height: 1000px;
+            max-width: 900px;
+            margin: auto;
+        }
+        span{
+            color: aqua;
+        }
+        ul{
+            color: rgb(11, 211, 144);
+        }
+        .mad{
+            color: rgb(31, 31, 221);
+        }
+        ul li a{
+            display: block;
+            float:none;
+            margin-right:0px;
+            padding:14px 16px;
+        }
+        .jim{
+            color: black;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="intro">
+        <h1>Hi how are you all!</h1>
+        <img src="Images/Anne.jpeg" alt="Anne"/>
+
+        <h2>I am anne marie from londan.</h2>
+        <div class="jim">
+        <P>The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe centered on a series
+            of superhero films produced by Marvel Studios. The films are based on characters that appear in American
+            comic books published by Marvel Comics.</P>
+            <h3><span>M</span>y book is good.</h3>
+            <h2><span class="mad">Everthing</span> is bad with bad days!</h2>
+        </div>
+        <div>
+        <ul>
+            <li><a href="https://www.marvel.com/"> MARVEL</a></li>
+        </ul>
+    </div>
+    </div>
+
+</body>
